@@ -1,0 +1,21 @@
+Devido a atualização do React, até a data de hoje 16/05/2023 é impossivel 
+trabalhar com styled-components.
+
+Por tanto devemos realizar um downgrade no npm para a versão 7.0.0 da seguinte 
+forma:
+
+Primeiro com o ctrl + j rode o npm i -g npm@7
+Segundo rode o npm i --legacy-peer-deps styled-components
+
+Feito isso, após realizar o downgrade. com estes comandos, instalamos o styled-component 
+da seguinte forma:
+
+npm i styled-components
+
+Até hoje é o único jeito de estudar com styled-components é através do downgrade.
+
+Depois devemos instalar o npm i @types/styled-components -D para as tipagens.
+
+Instalar o npm i eslint -D e o npm i @rocketseat/eslint-config -D para padronizar o código
+
+Instalar o npm i phosphor-react para os icones 
