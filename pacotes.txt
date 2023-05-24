@@ -19,3 +19,7 @@ Depois devemos instalar o npm i @types/styled-components -D para as tipagens.
 Instalar o npm i eslint -D e o npm i @rocketseat/eslint-config -D para padronizar o código
 
 Instalar o npm i phosphor-react para os icones 
+
+Para o form instalamos o pacote npm i react-hook-form, para uncontrolled e não "sobrecarregarmos a pagina"
+Ainda sobre os formularios npm i zod
+Para integrar bibliotecas npm i@hookform/resolvers
