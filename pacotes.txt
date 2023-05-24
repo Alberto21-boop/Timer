@@ -23,3 +23,5 @@ Instalar o npm i phosphor-react para os icones
 Para o form instalamos o pacote npm i react-hook-form, para uncontrolled e não "sobrecarregarmos a pagina"
 Ainda sobre os formularios npm i zod
 Para integrar bibliotecas npm i@hookform/resolvers
+
+Para contar os segundos no useEffect comparando a data atual instar este pacote npm i date-fns
