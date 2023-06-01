@@ -25,3 +25,5 @@ Ainda sobre os formularios npm i zod
 Para integrar bibliotecas npm i@hookform/resolvers
 
 Para contar os segundos no useEffect comparando a data atual instar este pacote npm i date-fns
+
+Para trabalhar com dados imutaveis, instalamos o Immer , ou seja, npm i immer 
