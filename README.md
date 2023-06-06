@@ -29,7 +29,7 @@
 
 <br>
 
-<h1>Imagem prévia da aplicação</h1>
+<h1 align="center">Imagem prévia da aplicação</h1>
 
 ![timer1](https://github.com/Alberto21-boop/Timer/assets/85910024/109fc16a-1174-4548-8d16-bcb7f04d0a56)
 
