@@ -5,10 +5,6 @@
     src="https://img.shields.io/badge/React-%5E18.2.6-blue" 
     alt="React Ver. ^18.2.0"
   />
-   <img 
-    src="https://img.shields.io/badge/NextJS-%5E13.4.2-black" 
-    alt="NextJS Ver. ^13.4.2"
-  />
   <img 
     src="https://img.shields.io/badge/Typescript-%5E5.0.4-blue"
     alt="Typescript Ver. 5.0.4" 
@@ -24,8 +20,6 @@
 </p>
 
 <div align="center">
-  
-  <h1>Imagem prévia da aplicação</h1>
 
 ![Last commit](https://img.shields.io/github/last-commit/Alberto21-boop/Timer.git?color=4DA1CD "Last commit") &nbsp;
 ![Repo size](https://img.shields.io/github/repo-size/Alberto21-boop/Timer.git?color=4DA1CD "Repo size") &nbsp;
@@ -34,6 +28,8 @@
 </div>
 
 <br>
+
+<h1>Imagem prévia da aplicação</h1>
 
 ![timer1](https://github.com/Alberto21-boop/Timer/assets/85910024/109fc16a-1174-4548-8d16-bcb7f04d0a56)
 
