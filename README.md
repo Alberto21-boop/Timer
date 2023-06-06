@@ -24,6 +24,8 @@
 </p>
 
 <div align="center">
+  
+  Imagem prévia da aplicação
 
 ![Last commit](https://img.shields.io/github/last-commit/Alberto21-boop/Timer.git?color=4DA1CD "Last commit") &nbsp;
 ![Repo size](https://img.shields.io/github/repo-size/Alberto21-boop/Timer.git?color=4DA1CD "Repo size") &nbsp;
