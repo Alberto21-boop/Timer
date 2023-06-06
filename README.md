@@ -25,7 +25,7 @@
 
 <div align="center">
   
-  Imagem prévia da aplicação
+  <h1>Imagem prévia da aplicação</h1>
 
 ![Last commit](https://img.shields.io/github/last-commit/Alberto21-boop/Timer.git?color=4DA1CD "Last commit") &nbsp;
 ![Repo size](https://img.shields.io/github/repo-size/Alberto21-boop/Timer.git?color=4DA1CD "Repo size") &nbsp;
@@ -41,7 +41,7 @@
 
 ![image](https://github.com/Alberto21-boop/Timer/assets/85910024/4673c90d-8bec-43f6-be5c-ccc936395737)
 
-![cover](.github/project-preview.png?style=flat)
+
 
 <br>
 
